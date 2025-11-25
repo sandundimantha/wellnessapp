@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_notification_icon_orange.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_notification_icon_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_notification_icon_green.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_notification_icon_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_activity_habit.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\activity_habit.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_bg_mood_grateful.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/bg_mood_grateful.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_bg_mood_neutral.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/bg_mood_neutral.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_bg_mood_excited.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/bg_mood_excited.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_peaceful.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_peaceful.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_notification_icon_yellow.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_notification_icon_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\xml_wellness_widget_info.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\xml\\wellness_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_gradient_water.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_gradient_water.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification_mood.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification_mood.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_item_recent_mood.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\item_recent_mood.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_bg_mood_down.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/bg_mood_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_mood.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_mood.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_heart_pulse.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_heart_pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_activity_mood.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\activity_mood.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_notification_icon_orange_gradient.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_notification_icon_orange_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_dialog_add_habit.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\dialog_add_habit.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_neutral.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_neutral.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_item_mood_history.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\item_mood_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_bg_mood_peaceful.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/bg_mood_peaceful.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_item_notification_dialog.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\item_notification_dialog.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/layout_activity_settings.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_dialog_mood.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\dialog_mood.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_habits.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_habits.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_notification_icon_blue.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_notification_icon_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_primary_button.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_primary_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_sad.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_sad.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_emotion_happy.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_emotion_happy.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_trophy.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_trophy.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_quotes.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_quotes.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification_hydration.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification_hydration.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_avatar.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_avatar.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/xml_file_paths.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/xml/file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_notification_icon_blue_gradient.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_notification_icon_blue_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification_habit.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification_habit.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_excited.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_excited.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_gradient_primary_secondary.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\gradient_primary_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_happy.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_happy.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\font_pacifico_regular.ttf.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\font\\pacifico_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_content.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_quote_card_background.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\quote_card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_ic_download.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_gradient_success.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_gradient_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_progress_background.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\progress_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_dialog_custom_water.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\dialog_custom_water.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_fire.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_fire.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_bg_mood_happy.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/bg_mood_happy.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification_achievement.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification_achievement.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification_water_drop.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification_water_drop.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_drop.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_drop.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_modern_card.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_modern_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_ecstatic.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_ecstatic.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_down.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_devastated.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_devastated.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_progress_bar_blue.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\progress_bar_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_unread_indicator.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_unread_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification_check_circle.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_empty_moods_state.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\empty_moods_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification_progress.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification_progress.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_bg_mood_ecstatic.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/bg_mood_ecstatic.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\font_pacifico.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\font\\pacifico.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification_heart.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_gradient_steps.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_gradient_steps.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_widget_wellness.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\widget_wellness.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification_trophy.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification_trophy.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_checkbox_circle.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_checkbox_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_notification_icon_green_gradient.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_notification_icon_green_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_shoe.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_shoe.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_notification_icon_purple.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_notification_icon_purple.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_bg_mood_devastated.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/bg_mood_devastated.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_empty_habits_state.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\empty_habits_state.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_bg_mood_content.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/bg_mood_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_mood_journal.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_mood_journal.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_notification_icon_yellow_gradient.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_notification_icon_yellow_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_button.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\color_bottom_nav_item_color.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\color\\bottom_nav_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_notification_smile.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_notification_smile.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_dialog_notifications.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\dialog_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_widget_background.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_mood_grateful.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_mood_grateful.xml"
+    },
+    {
+        "merged": "com.wellnessapp.tracker.app-debug-56:/drawable_bg_mood_sad.xml.flat",
+        "source": "com.wellnessapp.tracker.app-main-58:/drawable/bg_mood_sad.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_notification_icon_purple_gradient.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_notification_icon_purple_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_add_habit.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_add_habit.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_ic_water_bottle.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\ic_water_bottle.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\layout_item_habit.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\layout\\item_habit.xml"
+    },
+    {
+        "merged": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-debug-56:\\drawable_bg_gradient_primary.xml.flat",
+        "source": "C:\\Users\\NGC\\.gradle\\daemon\\8.10.2\\com.wellnessapp.tracker.app-main-58:\\drawable\\bg_gradient_primary.xml"
+    }
+]

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Color Palette -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary Colors - Modern Indigo -->
+    <color name="primary_color">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="primary_light">#818CF8</color>
+    
+    <!-- Secondary Colors - Soft Purple -->
+    <color name="secondary_color">#8B5CF6</color>
+    <color name="secondary_dark">#7C3AED</color>
+    <color name="secondary_light">#A78BFA</color>
+    
+    <!-- Accent Colors - Emerald Green -->
+    <color name="accent_color">#10B981</color>
+    <color name="accent_dark">#059669</color>
+    <color name="accent_light">#34D399</color>
+    
+    <!-- Background Colors -->
+    <color name="background_color">#F8FAFC</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_tertiary">#94A3B8</color>
+    
+    <!-- Status Colors -->
+    <color name="success_color">#10B981</color>
+    <color name="warning_color">#F59E0B</color>
+    <color name="error_color">#EF4444</color>
+    <color name="info_color">#3B82F6</color>
+    
+    <!-- Water/Hydration Colors -->
+    <color name="water_primary">#0EA5E9</color>
+    <color name="water_secondary">#0284C7</color>
+    <color name="water_light">#7DD3FC</color>
+    
+    <!-- Mood Colors -->
+    <color name="mood_happy">#FBBF24</color>
+    <color name="mood_good">#34D399</color>
+    <color name="mood_neutral">#94A3B8</color>
+    <color name="mood_sad">#F87171</color>
+    <color name="mood_angry">#EF4444</color>
+    
+    <!-- Step Counter Colors -->
+    <color name="step_primary">#8B5CF6</color>
+    <color name="step_secondary">#7C3AED</color>
+    <color name="step_light">#A78BFA</color>
+    
+    <!-- Card Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_elevation">#F1F5F9</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#6366F1</color>
+    <color name="gradient_end">#8B5CF6</color>
+    
+    <!-- Legacy Gray Colors -->
+    <color name="gray_50">#FFF9FAFB</color>
+    <color name="gray_100">#FFF3F4F6</color>
+    <color name="gray_200">#FFE5E7EB</color>
+    <color name="gray_300">#FFD1D5DB</color>
+    <color name="gray_400">#FF9CA3AF</color>
+    <color name="gray_500">#FF6B7280</color>
+    <color name="gray_600">#FF4B5563</color>
+    <color name="gray_700">#FF374151</color>
+    <color name="gray_800">#FF1F2937</color>
+    <color name="gray_900">#FF111827</color>
+    
+    <!-- Legacy Brand Colors -->
+    <color name="blue_100">#FFDBEAFE</color>
+    <color name="blue_500">#FF3B82F6</color>
+    <color name="blue_600">#FF2563EB</color>
+    <color name="green_500">#FF10B981</color>
+    <color name="red_100">#FFFEE2E2</color>
+    <color name="red_500">#FFEF4444</color>
+    <color name="orange_500">#FFF59E0B</color>
+    <color name="yellow_500">#FFEAB308</color>
+    
+    <!-- Bottom Navigation Colors -->
+    <color name="bottom_nav_background">#FFFFFF</color>
+    <color name="bottom_nav_selected">#6366F1</color>
+    <color name="bottom_nav_unselected">#94A3B8</color>
+    
+</resources>
